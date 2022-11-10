@@ -1,0 +1,19 @@
+git clone ...
+git pull
+git fetch
+git checkout dev
+git pull
+modify files
+git add fil1 fil2
+git commit -m ""
+git push
+git push --set-upstream origin/dev
+
+ 
+
+git status
+git diff
+
+ 
+
+git blame
